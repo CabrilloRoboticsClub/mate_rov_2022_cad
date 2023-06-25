@@ -1,0 +1,29 @@
+﻿absolute path:G:\My Drive\ROV-2022\MECHAICAL\ROV, FRAME SUBMODULE\3
+init:1
+run_capture:1
+run_solver:1
+new_calc:1
+close_monitor:0
+run_convert:0
+isOK:1
+ForceNewCalc:1
+run_capture_prestate:1
+StartFldName:G:\My Drive\ROV-2022\MECHAICAL\ROV, FRAME SUBMODULE\3\3.fld
+NewCalcStartCptName:
+TransTimeMoments:
+TransFldNames:
+CurSelTranFld:0
+Trans:0
+UsePrevRes:0
+ForcetoRunCPT:1
+ComputerName:
+port:59499
+ProcessResults:1
+LoadLastResult:1
+ProcessorsToUse:0
+LoadBaseFLDFile:0
+BaseFLDFile:
+id:{4D50C6D4-9C50-433A-AE5A-14EA48FD81B6}
+calculation_state:5
+ForceContinue:0
+SolverProcessId:20472

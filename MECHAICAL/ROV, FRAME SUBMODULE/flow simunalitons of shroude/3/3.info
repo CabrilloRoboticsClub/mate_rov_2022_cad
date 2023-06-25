@@ -1,0 +1,78 @@
+
+    System Info
+                Status:   Solver is finished.
+                Product:   Flow Simulation 2021 SP3.0. Build: 5251
+                Computer name:   DESKTOP-G8050EK
+                User name:   isaac
+                Processors:   Intel(R) Xeon(R) E-2276M  CPU @ 2.80GHz
+                Memory:   32460 MB / 18401 MB
+                Operating system:   Windows 10 (or higher) (Version 10.0.19043)
+                CAD version:   SOLIDWORKS 2021 SP3.0
+                CPU speed:   2808 MHz
+
+    General Info
+                Model:   shroude top.SLDPRT
+                Project name:   Project(3)
+                Project path:   G:\My Drive\ROV-2022\MECHAICAL\ROV, FRAME SUBMODULE\3
+                Units system:   SI (m-kg-s)
+                Analysis type:   External (not exclude internal spaces)
+                Exclude cavities without flow conditions :   On
+                Coordinate system:   Global Coordinate System
+                Reference axis:   X
+
+    Physical Features
+                Heat conduction in solids:   Off
+                Time dependent:   Off
+                Gravitational effects:   Off
+                Flow type:   Laminar and turbulent
+                Cavitation:   Off
+                High Mach number flow:   Off
+                Free surface:   Off
+                Default roughness:   0 micrometer
+                Default wall conditions:   Adiabatic wall
+
+    Computational Domain
+
+        Size
+                X min:   -0.293 m
+                X max:   0.294 m
+                Y min:   -0.227 m
+                Y max:   0.273 m
+                Z min:   -0.295 m
+                Z max:   0.293 m
+                X size:   0.587 m
+                Y size:   0.500 m
+                Z size:   0.588 m
+
+    Calculation Mesh
+
+        Basic Mesh Dimensions
+                Number of cells in X:   72
+                Number of cells in Y:   64
+                Number of cells in Z:   72
+
+        Number Of Cells
+                Cells:   536298
+                Fluid cells:   536298
+                Irregular cells:   0
+                Trimmed cells:   1
+                Maximum refinement level:   3
+
+    Goals
+                
+                Name   	Unit   	Value   	Progress   	Criteria   	Delta   	Use in convergence 
+
+    General Info
+                Run at:   DESKTOP-G8050EK
+                Number of cores:   12
+                Iterations:   164
+                CPU time:   572 s
+
+        Log
+                Mesh generation started	0:   21:01:16 , Feb 01
+                Mesh generation normally finished	0:   21:01:32 , Feb 01
+                Preparing data for calculation	0:   21:01:32 , Feb 01
+                Calculation started	0:   21:02:08 , Feb 01
+                Calculation has converged since the following criteria are satisfied:	164:   21:11:08 , Feb 01
+                    Goals are converged	164:   
+                Calculation finished	164:   21:11:23 , Feb 01

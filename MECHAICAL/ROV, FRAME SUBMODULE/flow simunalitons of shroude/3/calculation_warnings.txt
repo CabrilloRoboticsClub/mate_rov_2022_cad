@@ -1,0 +1,7 @@
+2022-Feb-01 21:11:08
+Computer name:	DESKTOP-G8050EK
+Number of cores used in calculation:	12
+Configuration name:	Default
+Project name:	Project(3)
+
+Warnings on last iteration: 

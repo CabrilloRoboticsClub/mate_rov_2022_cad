@@ -1,0 +1,16 @@
+[StartTime]
+ROV-300-45-Static 1.MFC=17s
+[SolverState]
+ROV-300-45-Static 1.MFC=2
+[MainFrame]
+ROV-300-45-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+ROV-300-45-Static 1.MFC=No
+[SolverType]
+ROV-300-45-Static 1.MFC=Linear Analysis
+[StudyType]
+ROV-300-45-Static 1.MFC=0
+[StudyName]
+ROV-300-45-Static 1.MFC=Static 1
+[Solver]
+ROV-300-45-Static 1.MFC=Iterative

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectResults><FlowmasterData><Arm><Name>Inlet Mass Flow 1</Name><ID>27</ID><Area>0.0004587100382666497</Area><M>9.9999999999999964e-05</M><P>101325.00018220156</P><T>293.2000000000001</T><Rho>997.56173932778802</Rho><Visc>0.0010005080000000013</Visc><Cp>4184.3775999997124</Cp><H>123.68345095521708</H><Ho>1236834.5095521712</Ho><K>0.59849992000015362</K></Arm><ContactArea>0.012961463737148935</ContactArea><AveWallTemp>293.20000000030859</AveWallTemp></FlowmasterData></ProjectResults>
